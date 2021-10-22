@@ -46,7 +46,7 @@ function setup() {
   
       World.add(world,con);
       
-  //2nd constraint
+  //2da restricción
         
    con2 = Matter.Constraint.create({
           bodyA:ball,
