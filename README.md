@@ -1,1 +1,1 @@
-# C20-Student-boilerplate-code
+# Referencia de la maestra - Solución de la actividad adicional - C26 1:4
